@@ -1,4 +1,4 @@
-# Hello! I'm Guilherme Medeiros
+# Hello! I'm Guilherme
 <p>
 I'm a Data Science leaner and as an intern in Data Engineering and studying 7th semester of Computer Science from Bazil <img align="center" alt="br" height="22" width="20"src="https://github.com/juliohm/awesome-brazil-data/blob/master/images/brazil-icon.png?raw=true">
 </p>
