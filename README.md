@@ -9,5 +9,6 @@ I'm a Data Science leaner as Data Engineering intern and studying 7th semester o
   <div style="display: inline_block"><br>
   <img align="center" alt="Gui-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Gui-GCP" height="30" width="40" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
   <img align="center" alt="Gui-PBI" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/b2ee4327cc6f39abefc1637090ebd9ace516da87/SVG/PowerBI.svg">
 </div>
