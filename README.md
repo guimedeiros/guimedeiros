@@ -4,6 +4,7 @@
    <img align="left" height="180cm" src="https://github-readme-stats.vercel.app/api?username=guimedeiros&show_icons=true&theme=radical">
 </div>
 <div style="display: inline_block"><br>
+  Languages and Tools:
   <img align="center" alt="Gui-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
