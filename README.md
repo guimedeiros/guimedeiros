@@ -34,4 +34,4 @@ Sou Engenheiro de Dados com +4 anos de experiência, apaixonado por resolver pro
 ## 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guimedeiros/)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:guilherme.antunes@ibm.com)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gacmedeiros@gmail.com)
