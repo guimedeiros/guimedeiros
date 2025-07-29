@@ -2,7 +2,7 @@
 
 Sou Engenheiro de Dados com +4 anos de experiência, apaixonado por resolver problemas com dados e construir pipelines eficientes em nuvem. Atualmente trabalho como consultor pela **IBM**, focado em projetos de Big Data com a **Google Cloud Platform**, **PySpark**, **SQL**, **Terraform** e **Power BI**.
 
-🎓 Graduado em Ciência da Computação - FMU 
+🎓 Graduado em Ciência da Computação - FMU  
 🎓 MBA em Engenharia de Dados — FIAP  
 📍 Osasco, SP, Brasil
 
